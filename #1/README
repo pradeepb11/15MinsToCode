@@ -1,0 +1,54 @@
+
+# 15MinsToCode - Challenge# 1
+
+## Expense Management System
+
+Create a Expense Management system that can be used by a user to track his expenses in 15 Mins.
+
+
+## Objective
+
+The system should be able to do the following:
+
+- Expense CRUD
+- Category CRUD
+- List expenses with and by filters like category, date, amount etc.
+- Show Expenses in a graphical format like pie chart, bar chart etc.
+- Download expenses in a CSV format
+- Upload expenses from a CSV file
+
+
+## Data Model
+
+#### Expense
+
+- ExpenseId
+- ExpenseDate
+- ExpenseAmount
+- ExpenseCategoryId
+- ExpenseDescription
+- CreatedDate
+- UpdatedDate
+
+#### Category
+
+- CategoryId
+- CategoryName
+- CreatedDate
+- UpdatedDate
+
+
+## Tech Stack Allowed
+
+**Languages:** PHP, Python, Java, VB, C#, Javascript, HTML, CSS
+
+**Database:** MySQL, Postgres, SQLite, MonogoDB, DynamoDB
+
+**Any Framework is Allowed**
+
+## To Participate
+
+- Fork this repository,
+- Create a Folder with your name inside challenge folder
+- Complete your code 
+- On Completion Do Pull Request.

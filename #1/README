@@ -17,11 +17,11 @@ This DAC has 10 bits of resolution and the DAC reference is 5.00 volts.
 
 ## Example
     
-    ```js 
-    dac(0) // 0
-    dac(1023) // 5.00
-    dac(512) // 2.50
-    dac(256) // 1.25
+```js 
+dac(0) // 0
+dac(1023) // 5.00
+dac(512) // 2.50
+dac(256) // 1.25
 
 ### Notes
 You should retrun a number rounded to two decimal places.
